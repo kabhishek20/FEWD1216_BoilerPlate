@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'ttnorms';
+    src: url('fonts/TTNorms-Regular.otf');
+}
+
+body {
+    background-color: rgb(46, 46, 46);
+    color: rgb(242, 233, 233);
+    font-family:'ttnorms';
+}
+
+.linebreak {
+    margin:auto;
+}
+
+#heading {
+    text-align: center;
+    font-weight:bold;
+}
+
+#about {
+    margin: auto;
+    text-align: center;
+}
+
+
+
+#emptydiv {
+    margin: auto;
+}
+
+.subheading_div {
+    width: 95%;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.subheading {
+    font-size:25px;
+    font-weight:bold;
+}
+
+.wrapper{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+
+.box {
+    border: 2px solid white;
+
+  }
+
+
+.box1 {
+    border: 2px solid white;
+
+  }
